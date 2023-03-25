@@ -296,7 +296,7 @@
     <value>Trình tường thuật</value>
   </data>
   <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
-    <value>Ghi chú Nhanh Mới</value>
+    <value>Tạo Ghi chú Nhanh</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Trình chiếu</value>
